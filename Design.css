@@ -11,7 +11,7 @@ body {
 
 .container {
     display: flex; 
-    background-color: #d6d6d6; 
+    background-color: #c0bcbc; 
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     padding: 40px;
@@ -26,7 +26,7 @@ body {
 
 .main-image {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 20px;
     object-fit: cover;
 }
 
@@ -65,13 +65,13 @@ a:hover {
 
 .Hola-button {
     position: fixed; 
-    bottom: 20px; 
+    bottom: px; 
     right: 20px; 
     background-color: #4caf50; 
     color: white;
     padding: 15px 25px;
     border: none;
-    border-radius: 20px;
+    border-radius: 40px;
     cursor: pointer;
     font-size: 16px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
@@ -79,5 +79,5 @@ a:hover {
 }
 
 .Hola-button:hover {
-    background-color: #3a6c3d; 
+    background-color: #538856; 
 }
