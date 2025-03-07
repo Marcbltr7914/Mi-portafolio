@@ -65,7 +65,7 @@ a:hover {
 
 .Hola-button {
     position: fixed; 
-    bottom: px; 
+    bottom: 20px; 
     right: 20px; 
     background-color: #4caf50; 
     color: white;
