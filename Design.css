@@ -81,3 +81,8 @@ a:hover {
 .Hola-button:hover {
     background-color: #538856; 
 }
+
+footer {
+    text-align: left;
+    justify-content: left;
+}
